@@ -25,7 +25,7 @@ pip install pandas numpy seaborn matplotlib openpyxl xlrd
 
 1️⃣ Clona este repositorio:  
 ```bash
-git clone https://github.com/eslunap/ENCUENTRO.git
+git clone https://github.com/eslunap/ENCUENTRO_FINAL_EAN_20251.git
 cd ENCUENTRO
 ```
 2️⃣ Asegúrate de tener las librerías instaladas.   
