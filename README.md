@@ -1,4 +1,4 @@
-### 🏡 ENCUENTRO - Análisis del PIB en Agricultura, Silvicultura y Pesca 🌿🐟  
+### 🏡 ENCUENTRO FINAL - Análisis del PIB en Agricultura, Silvicultura y Pesca 🌿🐟  
 
 📊 **Descripción:**  
 Este repositorio contiene el análisis de datos sobre **Agricultura, Silvicultura y Pesca, valor agregado (% del PIB)** en países de Latinoamérica durante el período 2020-2023. Se trabajó con datos de **World Bank Data** y se realizaron múltiples análisis estadísticos y visualizaciones con **Python, Pandas, Seaborn y Matplotlib**.  
@@ -61,6 +61,6 @@ cd ENCUENTRO
 👩‍💻 Estefany Luna Pérez 
 👨‍💻 Sergio Miranda Bautista  
 
-📝 **Desarrollado para la materia Programación para la Ciencia de Datos, Universidad EAN**
+📝 **Desarrollado para la asignatura Programación para la Ciencia de Datos, Universidad EAN**
 
 ---
